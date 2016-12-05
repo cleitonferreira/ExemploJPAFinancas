@@ -1,2 +1,2 @@
 # ExemploJPAFinancas
-Exemplo finanças simples, utilizando JPA e testes unitários
+Exemplo simples de finanças, utilizando Hibernate, JPA e testes unitários
